@@ -1,5 +1,5 @@
 # website-thaicamp-muaythai
-Processo de Ideação
+Processo de Ideação:
 Nosso projeto nasceu a partir da identificação de uma necessidade real: a ausência de uma presença digital estruturada para o estudio de muay thai de um conhecido . A partir disso, pensamos em criar um site funcional e atrativo que não apenas apresentasse a academia, mas também facilitasse a comunicação com alunos, e potenciais clientes. A ideação conta com funcionalidades que pudessem valorizar a experiência do usuário, como horários de aulas, informações sobre professores, planos disponíveis e contato direto.
 
 Por que é um projeto extensionista:
