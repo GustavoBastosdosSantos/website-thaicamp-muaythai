@@ -15,6 +15,9 @@ Nosso projeto nasceu a partir da identificação de uma necessidade real: a aus�
 Por que é um projeto extensionista:
 Este trabalho se caracteriza como um projeto extensionista porque promove a aplicação prática do conhecimento acadêmico em benefício da sociedade e de uma comunidade específica. Ao desenvolver o site, estamos ampliando a visibilidade da academia, fortalecendo seu posicionamento no mercado local e, consequentemente, contribuindo para o crescimento de um pequeno empreendimento. Assim, geramos impacto social ao ajudar a empresa a se expandir, atrair novos alunos e consolidar a prática esportiva como ferramenta de inclusão, saúde e bem-estar.
 
+CONCLUSÂO E APRENDIZADO ADQUIRIDO:
+Aprendemos trabalhar melhor em grupo, organizar um projeto de forma mais otimizada, e usar melhor o css e java script. Concluimos que a parte de front-end é subestimada e mais complexa do que aparenta.
+
 TUTORIAL:
 O site é composto por três páginas (início, planos e contato) e todas compartilham a mesma base. No topo do arquivo vem a declaração doctype (informa ao navegador que é HTML5), seguida da tag html com o atributo lang definido como pt-BR (informa o idioma do conteúdo). Dentro de head ficam as configurações invisíveis: a tag meta charset UTF-8 garante que acentos funcionem, a meta viewport width=device-width e initial-scale=1.0 deixa a página responsiva no celular, a tag title define o texto da aba do navegador e a tag link rel=stylesheet conecta o arquivo de estilos CSS que controla cores, tamanhos, espaçamentos e alinhamentos. Todo o conteúdo visível fica dentro de body.
 
